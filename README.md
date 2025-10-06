@@ -21,3 +21,5 @@
   <!-- Linguagens mais usadas -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dreyzyy&layout=compact&theme=midnight-purple&card_width=300" alt="Top Langs" height="180">
 </p>
+
+![Snake animation](https://github.com/seu-usuário-aqui/Dreyzyy/blob/output/github-contribution-grid-snake.svg)
