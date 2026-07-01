@@ -1,6 +1,6 @@
 # Bem-vindo ao meu perfil!😴
 <!--Icones pra redes -->
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dreyuuzy-magalhães-431b34365/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrey-magalh%C3%A3es-431b34365/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/thedreyzee_/)
 
 ### Estudando...
